@@ -1,7 +1,7 @@
 # f3-Test
 F3 MODULE TEST BOOK STORE
 
-DEPLOYMENT LINK:https://poojaram18.github.io/f3-Test/
+
 
 
 1.index.html
